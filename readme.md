@@ -1,6 +1,6 @@
 # PROJETO
 
-Praticando os estudos em Nodejs com express e ejs
+Praticando os estudos em Nodejs com express e ejs.
 Foi utilizado a estrutura de repetição forEach para renderizar as informações sobre as tecnologias na pagina Home.
 
 # TECNOLOGIAS
